@@ -1,4 +1,179 @@
+/* Colors
+
+pink: #ffa69e
+tan: #faf3dd
+turquoise: #b8f2e6
+light blue: #aed9e0
+darker blue: #5e6472
+
+*/
+
+* {
+  font-family: "Bookman";
+}
+
 .headerBar {
   background-color: #000;
-  height: 150;
+  height: 125px;
+}
+
+.objective {
+  margin-top: 10px;
+  padding: 5px 10px 10px 10px;
+  border: solid black 5px;
+  height: 150px;
+  width: 250px;
+  background-color: #5e6472;
+  color: #fff;
+  line-height: 17px;
+}
+
+.objective h1 {
+  text-align: center;
+  width: 100%;
+}
+
+.aboutMe {
+  margin-top: 10px;
+  padding: 5px 10px 10px 10px;
+  border: solid black 5px;
+  height: auto;
+  width: 250px;
+  background-color: #5e6472;
+  color: #fff;
+  line-height: 17px;
+}
+
+.aboutMe h1 {
+  text-align: center;
+  width: 100%;
+}
+
+.experience h1 {
+  margin-top: 10px;
+  padding: 20px;
+  border: solid black 5px;
+  height: auto;
+  width: 250px;
+  background-color: #5e6472;
+  color: #fff;
+  line-height: 17px;
+  text-align: center;
+}
+
+.school h1 {
+  margin-top: 10px;
+  padding: 20px;
+  border: solid black 5px;
+  height: auto;
+  width: 250px;
+  background-color: #5e6472;
+  color: #fff;
+  line-height: 17px;
+  text-align: center;
+}
+
+.portfolio h1 {
+  margin-top: 10px;
+  padding: 20px;
+  border: solid black 5px;
+  height: auto;
+  width: 250px;
+  background-color: #5e6472;
+  color: #fff;
+  line-height: 17px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+.yedDirector {
+  margin-top: 10px;
+  padding: 20px;
+  border: solid black 5px;
+  height: auto;
+  width: 250px;
+  background-color: #5e6472;
+  color: #fff;
+  line-height: 17px;
+  font-size: 80%;
+}
+
+.hostess {
+  margin-top: 10px;
+  padding: 20px;
+  border: solid black 5px;
+  height: auto;
+  width: 250px;
+  background-color: #5e6472;
+  color: #fff;
+  line-height: 17px;
+  font-size: 80%;
+}
+
+.dogWalker {
+  margin-top: 10px;
+  padding: 20px;
+  border: solid black 5px;
+  height: auto;
+  width: 250px;
+  background-color: #5e6472;
+  color: #fff;
+  line-height: 17px;
+  font-size: 80%;
+}
+
+.apprentice {
+  margin-top: 10px;
+  padding: 20px;
+  border: solid black 5px;
+  height: auto;
+  width: 250px;
+  background-color: #5e6472;
+  color: #fff;
+  line-height: 17px;
+  font-size: 80%;
+}
+
+.warrenTech {
+  margin-top: 10px;
+  padding: 20px;
+  border: solid black 5px;
+  height: auto;
+  width: 250px;
+  background-color: #5e6472;
+  color: #fff;
+  line-height: 17px;
+  font-size: 80%;
+}
+
+.RMCAD {
+  margin-top: 10px;
+  padding: 20px;
+  border: solid black 5px;
+  height: auto;
+  width: 250px;
+  background-color: #5e6472;
+  color: #fff;
+  line-height: 17px;
+  font-size: 80%;
+}
+
+.UCD {
+  margin-top: 10px;
+  padding: 20px;
+  border: solid black 5px;
+  height: auto;
+  width: 250px;
+  background-color: #5e6472;
+  color: #fff;
+  line-height: 17px;
+  font-size: 80%;
+}
+
+img {
+  margin: 10px;
+  border: solid black 5px;
 }
