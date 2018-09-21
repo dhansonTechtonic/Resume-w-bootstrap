@@ -1,0 +1,37 @@
+.headerBar {
+  height: 125px;
+  background-color: black;
+}
+
+.objective {
+  height: 140px;
+  background-color: black;
+  width: 225px;
+  margin-top: 10px;
+  margin-left: 10px;
+  position: fixed;
+  padding: 10px;
+}
+
+.objective h1 {
+  font-size: 24px;
+  text-align: center;
+  color: #fff;
+  margin: 2px;
+}
+
+.objective p {
+  font-size: 16px;
+  line-height: 17px;
+  color: #fff;
+  margin: 2px;
+}
+
+.barSeparator {
+  background-color: #fff;
+  height: 1px;
+  width: 95%;
+  margin-bottom: 3px;
+  margin-left: auto;
+  margin-right: auto;
+}
