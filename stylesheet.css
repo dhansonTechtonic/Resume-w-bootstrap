@@ -12,6 +12,12 @@ darker blue: #5e6472
   font-family: "Bookman";
 }
 
+.col-lg-3 {
+  margin-left: auto;
+  margin-right: auto;
+  border: solid 5px green;
+}
+
 .headerBar {
   background-color: #000;
   height: 125px;
@@ -22,15 +28,19 @@ darker blue: #5e6472
   padding: 5px 10px 10px 10px;
   border: solid black 5px;
   height: 150px;
-  width: 250px;
+  width: 100%;
   background-color: #5e6472;
   color: #fff;
   line-height: 17px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .objective h1 {
   text-align: center;
   width: 100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .aboutMe {
@@ -38,10 +48,12 @@ darker blue: #5e6472
   padding: 5px 10px 10px 10px;
   border: solid black 5px;
   height: auto;
-  width: 250px;
+  width: 100%;
   background-color: #5e6472;
   color: #fff;
   line-height: 17px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .aboutMe h1 {
@@ -91,10 +103,9 @@ h3 {
 
 .yedDirector {
   margin-top: 10px;
-  padding: 20px;
+  padding: 10px;
   border: solid black 5px;
   height: auto;
-  width: 250px;
   background-color: #5e6472;
   color: #fff;
   line-height: 17px;
@@ -103,7 +114,7 @@ h3 {
 
 .hostess {
   margin-top: 10px;
-  padding: 20px;
+  padding: 10px;
   border: solid black 5px;
   height: auto;
   width: 250px;
@@ -115,7 +126,7 @@ h3 {
 
 .dogWalker {
   margin-top: 10px;
-  padding: 20px;
+  padding: 10px;
   border: solid black 5px;
   height: auto;
   width: 250px;
@@ -127,7 +138,7 @@ h3 {
 
 .apprentice {
   margin-top: 10px;
-  padding: 20px;
+  padding: 10px;
   border: solid black 5px;
   height: auto;
   width: 250px;
@@ -139,41 +150,37 @@ h3 {
 
 .warrenTech {
   margin-top: 10px;
-  padding: 20px;
+  padding: 4px;
+  padding-left: 20px;
   border: solid black 5px;
   height: auto;
-  width: 250px;
+  width: 90%;
   background-color: #5e6472;
   color: #fff;
-  line-height: 17px;
+  line-height: 2px;
   font-size: 80%;
 }
 
 .RMCAD {
   margin-top: 10px;
-  padding: 20px;
+  padding: 4px;
   border: solid black 5px;
   height: auto;
-  width: 250px;
+  width: auto;
   background-color: #5e6472;
   color: #fff;
-  line-height: 17px;
+  line-height: 2px;
   font-size: 80%;
 }
 
 .UCD {
   margin-top: 10px;
-  padding: 20px;
+  padding: 4px;
   border: solid black 5px;
   height: auto;
-  width: 250px;
+  width: auto;
   background-color: #5e6472;
   color: #fff;
-  line-height: 17px;
+  line-height: 2px;
   font-size: 80%;
-}
-
-img {
-  margin: 10px;
-  border: solid black 5px;
 }
