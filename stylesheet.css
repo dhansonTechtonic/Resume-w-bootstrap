@@ -1,10 +1,9 @@
 /* Colors
 
-pink: #ffa69e
-tan: #faf3dd
-turquoise: #b8f2e6
-light blue: #aed9e0
-darker blue: #5e6472
+orange: #c36f09;
+darker: #a63c06;
+even darker: #710000;
+darket: #490000;
 
 */
 
@@ -17,17 +16,24 @@ darker blue: #5e6472
   height: 125px;
 }
 
+.headerBar h1 {
+  color: white;
+  text-align: center;
+  margin-top: 40px;
+}
+
 .objective {
   margin-top: 10px;
   padding: 5px 10px 10px 10px;
-  border: solid black 5px;
+  border-radius: 10px;
   height: auto;
   width: 75%;
-  background-color: #5e6472;
+  background-color: #c36f09;;
   color: #fff;
   line-height: 17px;
   margin-left: auto;
   margin-right: auto;
+  box-shadow: 5px 5px 1px black;
 }
 
 .objective h1 {
@@ -40,14 +46,15 @@ darker blue: #5e6472
 .aboutMe {
   margin-top: 10px;
   padding: 5px 10px 10px 10px;
-  border: solid black 5px;
+  border-radius: 10px;
   height: auto;
   width: 75%;
-  background-color: #5e6472;
+  background-color: #c36f09;;
   color: #fff;
   line-height: 17px;
   margin-left: auto;
   margin-right: auto;
+  box-shadow: 5px 5px 1px black;
 }
 
 .aboutMe h1 {
@@ -58,43 +65,46 @@ darker blue: #5e6472
 .experience h1 {
   margin-top: 10px;
   padding: 20px;
-  border: solid black 5px;
+  border-radius: 10px;
   height: auto;
   width: 100%;
-  background-color: #5e6472;
+  background-color: #c36f09;
   color: #fff;
   line-height: 17px;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+  box-shadow: 5px 5px 1px black;
 }
 
 .school h1 {
   margin-top: 10px;
   padding: 20px;
-  border: solid black 5px;
+  border-radius: 10px;
   height: auto;
   width: 100%;
-  background-color: #5e6472;
+  background-color: #c36f09;
   color: #fff;
   line-height: 17px;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+  box-shadow: 5px 5px 1px black;
 }
 
 .contact h1 {
   margin-top: 10px;
   padding: 20px;
-  border: solid black 5px;
+  border-radius: 10px;
   height: auto;
   width: 100%;
-  background-color: #5e6472;
+  background-color: #c36f09;
   color: #fff;
   line-height: 17px;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+  box-shadow: 5px 5px 1px black;
 }
 
 h3 {
@@ -104,133 +114,143 @@ h3 {
 .yedDirector {
   margin-top: 10px;
   padding: 10px;
-  border: solid black 5px;
+  border-radius: 10px;
   height: 150px;
   width: 50px !important;
-  background-color: #5e6472;
+  background-color: #a63c06;
   color: #fff;
   line-height: 17px;
   font-size: 80%;
   margin-left: 5px;
   margin-right: 5px;
+  box-shadow: 5px 5px 1px black;
 }
 
 .hostess {
   margin-top: 10px;
   padding: 10px;
-  border: solid black 5px;
+  border-radius: 10px;
   height: 150px;
   width: 50px !important;
-  background-color: #5e6472;
+  background-color: #a63c06;
   color: #fff;
   line-height: 17px;
   font-size: 80%;
   margin-left: 5px;
   margin-right: 5px;
+  box-shadow: 5px 5px 1px black;
 }
 
 .dogWalker {
   margin-top: 10px;
   padding: 10px;
-  border: solid black 5px;
+  border-radius: 10px;
   height: 150px;
   width: 50px !important;
-  background-color: #5e6472;
+  background-color: #a63c06;
   color: #fff;
   line-height: 17px;
   font-size: 80%;
   margin-left: 5px;
   margin-right: 5px;
+  box-shadow: 5px 5px 1px black;
 }
 
 .apprentice {
   margin-top: 10px;
   padding: 10px;
-  border: solid black 5px;
+  border-radius: 10px;
   height: 150px;
   width: 50px !important;
-  background-color: #5e6472;
+  background-color: #a63c06;
   color: #fff;
   line-height: 17px;
   font-size: 80%;
   margin-left: 5px;
   margin-right: 5px;
+  box-shadow: 5px 5px 1px black;
 }
 
 .warrenTech {
   margin-top: 10px;
   padding: 4px;
   padding-left: 20px;
-  border: solid black 5px;
+  border-radius: 10px;
   height: auto;
   width: auto;
-  background-color: #5e6472;
+  background-color: #710000;
   color: #fff;
   line-height: 2px;
   font-size: 80%;
+  box-shadow: 5px 5px 1px black;
 }
 
 .RMCAD {
   margin-top: 10px;
   padding: 4px;
   padding-left: 20px;
-  border: solid black 5px;
+  border-radius: 10px;
   height: auto;
   width: auto;
-  background-color: #5e6472;
+  background-color: #710000;
   color: #fff;
   line-height: 2px;
   font-size: 80%;
+  box-shadow: 5px 5px 1px black;
 }
 
 .UCD {
   margin-top: 10px;
   padding: 4px;
   padding-left: 20px;
-  border: solid black 5px;
+  border-radius: 10px;
   height: auto;
   width: auto;
-  background-color: #5e6472;
+  background-color: #710000;
   color: #fff;
   line-height: 2px;
   font-size: 80%;
+  box-shadow: 5px 5px 1px black;
 }
 
 .phoneNumber {
   margin-top: 10px;
   padding: 4px;
   padding-left: 20px;
-  border: solid black 5px;
+  border-radius: 10px;
   height: auto;
   width: auto;
-  background-color: #5e6472;
+  background-color: #490000;
   color: #fff;
   line-height: 2px;
   font-size: 80%;
+  box-shadow: 5px 5px 1px black;
 }
 
 .emailAddress {
   margin-top: 10px;
   padding: 4px;
   padding-left: 20px;
-  border: solid black 5px;
+  border-radius: 10px;
   height: auto;
   width: auto;
-  background-color: #5e6472;
+  background-color: #490000;
   color: #fff;
   line-height: 2px;
   font-size: 80%;
+  box-shadow: 5px 5px 1px black;
 }
 
 .address {
   margin-top: 10px;
   padding: 4px;
   padding-left: 20px;
-  border: solid black 5px;
+  border-radius: 10px;
   height: auto;
   width: auto;
-  background-color: #5e6472;
+  background-color: #490000;
   color: #fff;
   line-height: 2px;
   font-size: 80%;
+  box-shadow: 5px 5px 1px black;
 }
