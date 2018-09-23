@@ -12,12 +12,6 @@ darker blue: #5e6472
   font-family: "Bookman";
 }
 
-.col-lg-3 {
-  margin-left: auto;
-  margin-right: auto;
-  border: solid 5px green;
-}
-
 .headerBar {
   background-color: #000;
   height: 125px;
@@ -27,8 +21,8 @@ darker blue: #5e6472
   margin-top: 10px;
   padding: 5px 10px 10px 10px;
   border: solid black 5px;
-  height: 150px;
-  width: 100%;
+  height: auto;
+  width: 75%;
   background-color: #5e6472;
   color: #fff;
   line-height: 17px;
@@ -48,7 +42,7 @@ darker blue: #5e6472
   padding: 5px 10px 10px 10px;
   border: solid black 5px;
   height: auto;
-  width: 100%;
+  width: 75%;
   background-color: #5e6472;
   color: #fff;
   line-height: 17px;
@@ -66,11 +60,13 @@ darker blue: #5e6472
   padding: 20px;
   border: solid black 5px;
   height: auto;
-  width: 250px;
+  width: 100%;
   background-color: #5e6472;
   color: #fff;
   line-height: 17px;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .school h1 {
@@ -78,23 +74,27 @@ darker blue: #5e6472
   padding: 20px;
   border: solid black 5px;
   height: auto;
-  width: 250px;
+  width: 100%;
   background-color: #5e6472;
   color: #fff;
   line-height: 17px;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.portfolio h1 {
+.contact h1 {
   margin-top: 10px;
   padding: 20px;
   border: solid black 5px;
   height: auto;
-  width: 250px;
+  width: 100%;
   background-color: #5e6472;
   color: #fff;
   line-height: 17px;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h3 {
@@ -105,47 +105,56 @@ h3 {
   margin-top: 10px;
   padding: 10px;
   border: solid black 5px;
-  height: auto;
+  height: 150px;
+  width: 50px !important;
   background-color: #5e6472;
   color: #fff;
   line-height: 17px;
   font-size: 80%;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 .hostess {
   margin-top: 10px;
   padding: 10px;
   border: solid black 5px;
-  height: auto;
-  width: 250px;
+  height: 150px;
+  width: 50px !important;
   background-color: #5e6472;
   color: #fff;
   line-height: 17px;
   font-size: 80%;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 .dogWalker {
   margin-top: 10px;
   padding: 10px;
   border: solid black 5px;
-  height: auto;
-  width: 250px;
+  height: 150px;
+  width: 50px !important;
   background-color: #5e6472;
   color: #fff;
   line-height: 17px;
   font-size: 80%;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 .apprentice {
   margin-top: 10px;
   padding: 10px;
   border: solid black 5px;
-  height: auto;
-  width: 250px;
+  height: 150px;
+  width: 50px !important;
   background-color: #5e6472;
   color: #fff;
   line-height: 17px;
   font-size: 80%;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 .warrenTech {
@@ -154,7 +163,7 @@ h3 {
   padding-left: 20px;
   border: solid black 5px;
   height: auto;
-  width: 90%;
+  width: auto;
   background-color: #5e6472;
   color: #fff;
   line-height: 2px;
@@ -164,6 +173,7 @@ h3 {
 .RMCAD {
   margin-top: 10px;
   padding: 4px;
+  padding-left: 20px;
   border: solid black 5px;
   height: auto;
   width: auto;
@@ -176,6 +186,46 @@ h3 {
 .UCD {
   margin-top: 10px;
   padding: 4px;
+  padding-left: 20px;
+  border: solid black 5px;
+  height: auto;
+  width: auto;
+  background-color: #5e6472;
+  color: #fff;
+  line-height: 2px;
+  font-size: 80%;
+}
+
+.phoneNumber {
+  margin-top: 10px;
+  padding: 4px;
+  padding-left: 20px;
+  border: solid black 5px;
+  height: auto;
+  width: auto;
+  background-color: #5e6472;
+  color: #fff;
+  line-height: 2px;
+  font-size: 80%;
+}
+
+.emailAddress {
+  margin-top: 10px;
+  padding: 4px;
+  padding-left: 20px;
+  border: solid black 5px;
+  height: auto;
+  width: auto;
+  background-color: #5e6472;
+  color: #fff;
+  line-height: 2px;
+  font-size: 80%;
+}
+
+.address {
+  margin-top: 10px;
+  padding: 4px;
+  padding-left: 20px;
   border: solid black 5px;
   height: auto;
   width: auto;
